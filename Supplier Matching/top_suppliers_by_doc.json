@@ -1,0 +1,37 @@
+[
+  {
+    "source_document": "UseCase2.pdf",
+    "top_suppliers": [
+      {
+        "rank": 1,
+        "score": 0.6762098670005798,
+        "Supplier Name": "Knauf Industries Deutschland GmbH",
+        "Supplier Id": "ee58cc60-ea4b-4cca-9d56-313af2e61300"
+      },
+      {
+        "rank": 2,
+        "score": 0.44860580563545227,
+        "Supplier Name": "Philippine GmbH & Co. Techn. Kunststoffe KG",
+        "Supplier Id": "0d7d0771-52f0-492e-a10f-33a61b6d00a5"
+      },
+      {
+        "rank": 3,
+        "score": 0.3455134332180023,
+        "Supplier Name": "Paul M\u00fcller GmbH",
+        "Supplier Id": "5ee84640-86ab-40a0-84ca-8ecc54f00eb5"
+      },
+      {
+        "rank": 4,
+        "score": 0.33396148681640625,
+        "Supplier Name": "GWK Kuhlmann GmbH",
+        "Supplier Id": "87151d82-3bc7-44de-8603-ea440ec32c27"
+      },
+      {
+        "rank": 5,
+        "score": 0.28649887442588806,
+        "Supplier Name": "Schaumaplast Nossen GmbH",
+        "Supplier Id": "a1ed96ee-0cbb-41cf-b6dd-a5c553afb87b"
+      }
+    ]
+  }
+]
