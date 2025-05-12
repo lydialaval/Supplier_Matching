@@ -1,0 +1,24 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
+
+# Ignore environment folders
+venv/
+env/
+lib/
+
+# Ignore secrets
+.env
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+
+# Ignore output files
+pdf_translate.csv
+*.json
+
+# Ignore system/IDE files
+.DS_Store
+.vscode/
+.idea/
+
